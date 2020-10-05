@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>                     
+<?xml-stylesheet type="text/css" href="style.css"?> 
+<songlist>
+    <song>
+        <artist>DJ Okawari</artist>
+        <title>Flower Dance</title>
+        <genre>Instrumental</genre>
+        <year>2010</year>
+    </song>
+    <song>
+        <artist>Juice WLRD</artist>
+        <title>Lucid Dreams</title>
+        <genre>Rap</genre>
+        <year>2018</year>
+    </song>
+    <song>
+        <artist>Charlie Puth</artist>
+        <title>We Don't Talk Anymore</title>
+        <genre>Pop</genre>
+        <year>2016</year>
+    </song>
+    <song>
+        <artist>Maroon 5</artist>
+        <title>Girls Like You</title>
+        <genre>Pop</genre>
+        <year>2018</year>
+    </song>
+    <song>
+        <artist>T.I.</artist>
+        <title>Dead and Gone</title>
+        <genre>Hip-hop/Rap</genre>
+        <year>2008</year>
+    </song>
+    <song>
+        <artist>Starset</artist>
+        <title>My Demons</title>
+        <genre>Rock</genre>
+        <year>2014</year>
+    </song>
+    <song>
+        <artist>Starset</artist>
+        <title>Antigravity</title>
+        <genre>Rock</genre>
+        <year>2014</year>
+    </song>
+    <song>
+        <artist>Fall Out Boy</artist>
+        <title>Centuries</title>
+        <genre>Indie</genre>
+        <year>2015</year>
+    </song>
+    <song>
+        <artist>Panda Eyes and Teminite</artist>
+        <title>Highscore</title>
+        <genre>Electronic</genre>
+        <year>2015</year>
+    </song>
+    <song>
+        <artist>Imagine Dragons</artist>
+        <title>Warriors</title>
+        <genre>Indie</genre>
+        <year>2014</year>
+    </song>
+</songlist>

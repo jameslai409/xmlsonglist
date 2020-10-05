@@ -1,0 +1,50 @@
+song {
+    border-bottom: 4px solid #8a2be2;
+    display: block;
+    padding: 6px;
+}
+
+artist { 
+    color: #e77;  
+    font-weight:bolder; 
+    font-size:25px; 
+} 
+
+artist:after {
+    content: " - ";
+
+}
+
+title:before {
+    font-size:18px;
+    content: "Song: ";
+}
+
+title {
+    font-size:30px;
+    color:#0f4e72;
+    font-weight: bolder;
+    font-style: italic;
+}
+
+genre:before {
+    content: " - ";
+}
+
+genre {
+    display: inline-block;
+    color: rgb(129, 118, 18);
+}
+
+year:before {
+    content: "(";
+}
+
+year {
+    display: inline-block;
+    font-size: 10px;
+}
+
+year:after {
+    content: ")";
+}
